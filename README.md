@@ -9,9 +9,9 @@ Prior to this, I worked at Vidio.com and have experience working in a profesiona
 
 
 #### Languages:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" width="26px" src="https://user-images.githubusercontent.com/57714294/149643016-81d66905-2bea-4354-a90a-e0ff40d5fd44.png" />
 <br/>  
 
 #### Frameworks/Platforms:
@@ -23,6 +23,7 @@ Prior to this, I worked at Vidio.com and have experience working in a profesiona
 #### Data: 
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">  
+<img align="left" height="20" src="https://user-images.githubusercontent.com/57714294/149643040-8594f617-fca0-48ba-a090-ad57c2ae33b5.png">  
 <br />
 
 #### Tools:
@@ -30,6 +31,8 @@ Prior to this, I worked at Vidio.com and have experience working in a profesiona
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Eslint" width="26px" src="https://user-images.githubusercontent.com/57714294/149643081-ce0f8474-8696-4093-b919-ee4ce1445b9a.png" />
+<img align="left" alt="Webpack" width="26px" src="https://user-images.githubusercontent.com/57714294/149643094-8007ca3d-f587-47c2-9dfa-c8ac516599cb.png" />
 <br/ >
 
 ## Some of my Github Stats      
