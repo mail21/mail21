@@ -2,11 +2,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-ismailidn1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ismailidn1@gmail.com)](mailto:ismailidn1@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-ismailidn1-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismailidn1/)](https://www.linkedin.com/in/ismailidn1/) [![Github Badge](https://img.shields.io/badge/-mail21-grey?style=flat&logo=github&logoColor=white&link=https://github.com/mail21/)](https://www.github.com/mail21/)
 
-<p align='justify'>I am currently a fresh graduate at Pamulang University majoring in Informatics Engineering.
-Prior to this, I worked at Vidio.com and have experience working in a profesional team whose very supportive and get a lot of experience from it . I always try to learn new technologies to fulfill my curiosity and increase my skill set. My passion and motivation while developing any project is its impact on other people. I love to work on projects which make a difference in society and will always be open to such oppurtunities!
+<p align='justify'>With a degree in Informatics Engineering, I am driven by a passion for learning, problem-solving, and teamwork. I thrive on the excitement of building systems and applications that make a positive impact. My experience spans Frontend, Backend, and Mobile App Development, including working with technologies such as React.js, Laravel, Flutter, and JavaScript. I've contributed to developing new features, maintaining web platforms, and building mobile apps. I’m always eager to gain new experiences, collaborate with teams, and continuously expand my technical skills
 
-</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1qUwPr-r1wYC6hti-OWW0BomAXXMy8naC/view?usp=sharing' target=_blank><u>here</u>.</a></p>
-
+</p><p align='left'> You can view my portofolio <a href='https://mail21.github.io/home/' target=_blank><u>here</u>.</a></p>
 
 #### Languages:
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
